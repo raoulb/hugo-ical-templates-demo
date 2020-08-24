@@ -3,43 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://raoulb.github.io/hugo-ical-templates-demo/about/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/articles/</loc>
+    <loc>https://raoulb.github.io/hugo-ical-templates-demo/articles/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://raoulb.github.io/hugo-ical-templates-demo/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://raoulb.github.io/hugo-ical-templates-demo/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/events/event_2/</loc>
+    <loc>https://raoulb.github.io/hugo-ical-templates-demo/events/event_2/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/events/event_1/</loc>
+    <loc>https://raoulb.github.io/hugo-ical-templates-demo/events/event_1/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/events/</loc>
+    <loc>https://raoulb.github.io/hugo-ical-templates-demo/events/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/articles/article_1/</loc>
+    <loc>https://raoulb.github.io/hugo-ical-templates-demo/articles/article_1/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/articles/article_2/</loc>
+    <loc>https://raoulb.github.io/hugo-ical-templates-demo/articles/article_2/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://raoulb.github.io/hugo-ical-templates-demo/tags/</loc>
   </url>
   
 </urlset>
